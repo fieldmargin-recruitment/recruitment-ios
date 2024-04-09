@@ -36,7 +36,6 @@ Keep in mind that each row should have a bookmark button as well.
 - API calls can be made using any library but we suggest using Moya + MoyaCombine https://github.com/Moya/Moya
 - Application should have a simple UX/UI
 - Application code quality is very important
-- Web has a copy to clipboard feature but it's not needed for iOS (just a nice to have)
 - Spend no more than 4 hours on the assignment
 
 If you have any other ideas how to make this app working and looking better - feel free to implement it!
