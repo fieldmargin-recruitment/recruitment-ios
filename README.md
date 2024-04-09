@@ -18,10 +18,9 @@ For fetching the certificates use this endpoint:
 
 Keep in mind that there could be more than 10 certificates.
 
-Mockup for the certificates table from web:
-![Mockup](https://i.ibb.co/nfYhYZc/Certificates-list.png)
+Mockup for the certificates table:
+![Mockup](/1.png)
 
-Show the same data as shown in the web above.
 Use this as a template for each row in the list:
 
 ```
