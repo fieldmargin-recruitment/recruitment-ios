@@ -33,8 +33,9 @@ Keep in mind that each row should have a bookmark button as well.
 
 ##### Requirements
 - Application should be written in Swift
+- SwiftUI is desired (it's ok to mix UIKit if needed)
 - Reactive Programming is desired but not a requirement (we use RxSwift but Combine or other reactive libraries are ok)
-- API calls can be made using any library but we suggest using Moya https://github.com/Moya/Moya
+- API calls can be made using any library. We suggest using Moya https://github.com/Moya/Moya
 - Application should have a simple UX/UI
 - Application code quality is very important
 - Spend no more than 4 hours on the assignment
